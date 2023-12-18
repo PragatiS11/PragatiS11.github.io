@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.75cddc5a.js",
+    "main.js": "/static/js/main.3f71fa63.js",
     "static/media/hi.gif": "/static/media/hi.e8b7aa58b12e98ad37d8.gif",
     "static/media/Pragati.pdf": "/static/media/Pragati.2fb02204ad28f321faaa.pdf",
     "static/media/HeroImage.jpg": "/static/media/HeroImage.677887b2f5ee7be530b5.jpg",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.75cddc5a.js.map": "/static/js/main.75cddc5a.js.map"
+    "main.3f71fa63.js.map": "/static/js/main.3f71fa63.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.75cddc5a.js"
+    "static/js/main.3f71fa63.js"
   ]
 }
